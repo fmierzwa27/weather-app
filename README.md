@@ -14,7 +14,7 @@ A simple weather app built with HTML, CSS, and JavaScript.
 - JavaScript
 - OpenWeatherMap API
 
-##SETUP
+# Setup
 
 1. Get your API key by logging in on https://openweathermap.org/
 2. In 'script.js' file swap 'YOUR_API_KEY' from the first line of code to your actual API key from OpenWeatherMap
